@@ -8,7 +8,7 @@
 </head>
 <body>
 <form action="Login" method="post">
-	<label for="order">order:</label>
+	<label for="order">order:</label> 
 	
 	<input type="submit" value="Login" /><br />
 	<a href="register.jsp">Sign up</a>
